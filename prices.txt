@@ -1,0 +1,4 @@
+A apple 50 3 130
+B banana 30 2 45
+C cherries 20 2 0
+D dates 15 2 0
